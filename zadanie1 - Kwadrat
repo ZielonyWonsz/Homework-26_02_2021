@@ -1,0 +1,16 @@
+package com.company;
+public class Main
+{
+    public int a;
+    public Main(int b)
+    {
+        a=b;
+    }
+    public int obwod ()
+    {
+        return a*4;
+    }
+    public int pole ()
+    {
+        return a*a;
+    }}
